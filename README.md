@@ -1,3 +1,7 @@
+**ARCHIVED. See https://github.com/BillyDM/Audio-DSP-Resources instead.**
+
+----
+
 # dsp-learning
 
 A bunch of resources I've come across (randomly, searching, or recommended) that I think might be useful for learning DSP concepts.
