@@ -6,6 +6,10 @@ Eventually I want to organize this repo in a few different ways: beginner-to-adv
 
 Please let me know if there are any broken links!
 
+## TODO
+
+ - Add links from https://rust-audio.discourse.group/t/useful-links-for-dsp-and-audio-programming/91/4
+
 ## DSP
 
 #### Textbooks
